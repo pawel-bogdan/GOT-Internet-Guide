@@ -1,1 +1,3 @@
-# GOT-Internet-Guide
+GOT(Górska Odznaka Turystyczna) is an motivational award for people who climb polish mountains. The rules are very easy - for each reached trail you get appropriate number of points, if you get enough number of points - you get award. There are thousands of trails and  each of them has a point value, color, estimated time of travel and many others... Planning the route can be cumbersome and discourage many people. That is why I decided to build this app. 
+
+It allows **generate routes** which meets user's requirements. User is asked for data such as **starting point** and **end point** and optionally **intermediate points**. The generator will display the **fastest route** and  **alternative** one which usually is **more valuable** in points. App also allows **access** to all trails belonging to GOT program(they can be **filtered**). Logged users have access to more "secret" data and can **modify/add** trails.
