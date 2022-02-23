@@ -14,7 +14,7 @@
     <name>Internetowy przewodnik - GOT</name>
     <description>Internetowy przewodnik - GOT</description>
     <properties>
-<!--         <java.version>11</java.version> -->
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
